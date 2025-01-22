@@ -5,7 +5,7 @@ Hi!, I am from Jakarta and currently pursuing a D3 degree in Management Informat
 A student passionate about web development, currently learning to become a Back-End Developer.
 
 🌱 I'm currently learning **Vue.js** and **Laravel**  
-📂 All of my projects are available at ://leozdeath.github.io/Profile/  
+📂 All of my projects are available at https://leozdeath.github.io/Profile/  
 📫 How to reach me: dzuto.g2@gmail.com
 
 ## Languages and Tools:
